@@ -15,7 +15,6 @@
 ### Check out new Android library implementation,
 ### 
 ### 
-
 <a href="https://github.com/FakhrulASA/RealmDB-Imp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=RealmDB-Imp"/>
 </a>
