@@ -18,6 +18,9 @@
 <a href="https://github.com/FakhrulASA/RealmDB-Imp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=RealmDB-Imp"/>
 </a>
+<a href="https://github.com/FakhrulASA/Hilt-Imp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Hilt-Imp" />
+</a>
 <a href="https://github.com/FakhrulASA/Jetpack-Navigation-Component">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Jetpack-Navigation-Component" />
 </a>
