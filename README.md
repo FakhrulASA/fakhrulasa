@@ -32,6 +32,10 @@
 <a href="https://github.com/FakhrulASA/Work-Workmanager-Imp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Work-Workmanager-Imp" />
 </a>
+<a href="https://github.com/FakhrulASA/Message-Retriever-With-ViewBinding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Message-Retriever-With-ViewBinding" />
+</a>
+
 
 
 
