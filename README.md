@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrulasa&exclude_repo=shikhi,okkhor-Bangla-ANSI-converter,My-Portfolio-Website,WAi,TOOLkit,COROMAP,BEUMAN-PRANOBANDHU,AutomaticMobileAuth,anagram,wd2DiceGame,CalculatorWD2,Workshopday1,RecycleviewTrainingClass391&layout=compact&theme=radical)](https://github.com/fakhrulasa/github-readme-stats)
 ### 
 ### 
-### Check out new Android library implementation,
+### Check out new Android libraries/API's implementation,
 ### 
 ### 
 <a href="https://github.com/FakhrulASA/RealmDB-Imp">
