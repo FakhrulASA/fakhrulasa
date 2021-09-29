@@ -38,8 +38,8 @@
 <a href="https://github.com/FakhrulASA/Scoped-Storage-Impl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Scoped-Storage-Impl" />
 </a>
-<a href="https://github.com/FakhrulASA/Scoped-Storage-Impl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Scoped-Storage-Impl" />
+<a href="https://github.com/FakhrulASA/MySQL-queries-basic-advanced">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=MySQL-queries-basic-advanced" />
 </a>
 
 
