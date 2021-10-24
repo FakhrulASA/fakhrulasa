@@ -3,7 +3,7 @@
   <h2> Android Engineer.</h2>
 </p>
 
-**Hi, I am a self-taught software creator and mobile development researchers who love to work and learn new things about mobile development. Every day, I learn something new and try to apply it to my work and projects. I believe that learning is the best thing a learner can do. My searching will continue ** 
+** Hi, I am a self-taught software creator and mobile development researchers who love to work and learn new things about mobile development. Every day, I learn something new and try to apply it to my work and projects. I believe that learning is the best thing a learner can do. My searching will continue ** 
 
 ### Here's my some stats,
 ### 
