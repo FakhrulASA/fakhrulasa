@@ -38,6 +38,10 @@
 <a href="https://github.com/FakhrulASA/Firebase-In-App-Messaging">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Firebase-In-App-Messaging" />
 </a>
+<a href="https://github.com/FakhrulASA/camerax-imp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=camerax-imp" />
+</a>
+
 
 
 
