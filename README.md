@@ -35,7 +35,9 @@
 <a href="https://github.com/FakhrulASA/Message-Retriever-With-ViewBinding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Message-Retriever-DataViewbinding" />
 </a>
-
+<a href="https://github.com/FakhrulASA/Firebase-In-App-Messaging">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Firebase-In-App-Messaging" />
+</a>
 
 
 
