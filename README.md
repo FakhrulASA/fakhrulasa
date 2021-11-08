@@ -13,7 +13,6 @@
 ### 
 ### 
 ### Check out new Android libraries/API's implementation,
-
 ### 
 ### 
 <a href="https://github.com/FakhrulASA/RealmDB-Imp">
