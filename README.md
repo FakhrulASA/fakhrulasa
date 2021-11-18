@@ -40,6 +40,9 @@
 <a href="https://github.com/FakhrulASA/camerax-imp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=camerax-imp" />
 </a>
+<a href="https://github.com/FakhrulASA/Widgets-android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Widgets-android" />
+</a>
 
 
 
