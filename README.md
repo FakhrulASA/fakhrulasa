@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="40" style="vertical-align:top; margin:4px">
 <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" style="vertical-align:top; margin:4px">
-<img src="https://p.kindpng.com/picc/s/355-3557482_flutter-logo-png-transparent-png.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://engineering.procore.com/content/images/2016/11/git-logo.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ3c078fwqLTXb0nYTu1h-ImJjrGxKDDGTPRwzcMU4G7cui-WSydUScZcwMShYuF300&usqp=CAU" height="40" style="vertical-align:top; margin:4px">
