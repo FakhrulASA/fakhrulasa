@@ -3,7 +3,10 @@
   <h2> Android Engineer.</h2>
 </p>
 
-## 🧰 Languages and Tools:
+
+<h4> Hi, I am a self-taught software creator and mobile development researchers who love to work and learn new things about mobile development. Every day, I learn something new and try to apply it to my work and projects. I believe that learning is the best thing a learner can do. It is always thrilling to solve new challenges and problems that I have never faced. </h4> 
+
+### 🧰 Languages and Tools:
 <p align="center">
 <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5ea3e4a6fccadd392f62a083%2Fposts%2F5f9848f63f6c32345a2209bb%2F5f9848f63f6c32345a2209bb_46084.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=240c2aea60f466a4835a82d57d61af67" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
@@ -15,8 +18,10 @@
   
 <img src="https://engineering.procore.com/content/images/2016/11/git-logo.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ3c078fwqLTXb0nYTu1h-ImJjrGxKDDGTPRwzcMU4G7cui-WSydUScZcwMShYuF300&usqp=CAU" height="40" style="vertical-align:top; margin:4px">
+    
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" height="40" style="vertical-align:top; margin:4px">
 </p>
-<h4> Hi, I am a self-taught software creator and mobile development researchers who love to work and learn new things about mobile development. Every day, I learn something new and try to apply it to my work and projects. I believe that learning is the best thing a learner can do. It is always thrilling to solve new challenges and problems that I have never faced. </h4> 
 
 ## Here's my some stats,
 
