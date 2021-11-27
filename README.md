@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Hi there 👋,</h1> 
+  <h1> Hi there 👋</h1> 
   <h1>Its Fakhrul Siddiqei.</h1>    
   <h2> Android Engineer.</h2>
 </p>
