@@ -31,7 +31,7 @@
 
 
 ## Most used language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrulasa&exclude_repo=okkhor-Bangla-ANSI-converter,My-Portfolio-Website,TOOLkit,COROMAP,BEUMAN-PRANOBANDHU,AutomaticMobileAuth,anagram,wd2DiceGame,CalculatorWD2,Workshopday1,RecycleviewTrainingClass391&theme=dracula)](https://github.com/fakhrulasa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrulasa&exclude_repo=okkhor-Bangla-ANSI-converter,My-Portfolio-Website,BEUMAN-PRANOBANDHU,AutomaticMobileAuth,anagram,wd2DiceGame,CalculatorWD2,Workshopday1,RecycleviewTrainingClass391&theme=dracula)](https://github.com/fakhrulasa/github-readme-stats)
 ### 
 ### 
 ### Check out new Android libraries/API's implementation,
