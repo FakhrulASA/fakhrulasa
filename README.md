@@ -64,6 +64,9 @@
 <a href="https://github.com/FakhrulASA/Widgets-android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Widgets-android&theme=dracula" />
 </a>
+<a href="https://github.com/FakhrulASA/Learn-DiffUtil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Learn-DiffUtil&theme=dracula" />
+</a>
 
 
 
