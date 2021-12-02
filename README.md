@@ -46,7 +46,7 @@
 </a>
 <a href="https://github.com/FakhrulASA/Jetpack-Navigation-Component">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Jetpack-Navigation-Component&theme=dark" />
-</a>dark
+</a>
 <a href="https://github.com/FakhrulASA/ROOMDB_Demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=ROOMDB_Demo&theme=dark" />
 </a>
