@@ -39,34 +39,34 @@
 ### 
 ### 
 <a href="https://github.com/FakhrulASA/RealmDB-Imp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=RealmDB-Imp&theme=synthwave"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=RealmDB-Imp&theme=dark"/>
 </a>
 <a href="https://github.com/FakhrulASA/Hilt-x-Retrofit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Hilt-x-Retrofit&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Hilt-x-Retrofit&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/Jetpack-Navigation-Component">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Jetpack-Navigation-Component&theme=cobalt" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Jetpack-Navigation-Component&theme=dark" />
+</a>dark
 <a href="https://github.com/FakhrulASA/ROOMDB_Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=ROOMDB_Demo&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=ROOMDB_Demo&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/Work-Workmanager-Imp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Work-Workmanager-Imp&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Work-Workmanager-Imp&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/Message-Retriever-With-ViewBinding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Message-Retriever-DataViewbinding&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Message-Retriever-DataViewbinding&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/Firebase-In-App-Messaging">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Firebase-In-App-Messaging&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Firebase-In-App-Messaging&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/camerax-imp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=camerax-imp&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=camerax-imp&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/Widgets-android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Widgets-android&theme=dark" />
 </a>
 <a href="https://github.com/FakhrulASA/Learn-DiffUtil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Learn-DiffUtil&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Learn-DiffUtil&theme=dark" />
 </a>
 
 
