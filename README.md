@@ -1,7 +1,7 @@
 <p align="center">
   <h1> Hi there 👋</h1> 
   <h1>Its Fakhrul Siddiqei.</h1>    
-  <h2> Android Engineer.</h2>
+  <h2> Full Stack Kotlin/Java Developer - Android/Spring.</h2>
 </p>
 
 
