@@ -21,8 +21,6 @@
   
 <img src="https://engineering.procore.com/content/images/2016/11/git-logo.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ3c078fwqLTXb0nYTu1h-ImJjrGxKDDGTPRwzcMU4G7cui-WSydUScZcwMShYuF300&usqp=CAU" height="40" style="vertical-align:top; margin:4px">
-    
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
