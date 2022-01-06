@@ -2,8 +2,12 @@
   <h1> Hi there 👋</h1> 
   <h1>Its Fakhrul Siddiqei.</h1>    
   <h2> Full Stack Kotlin/Java Developer - Android/Spring.</h2>
+
 </p>
 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiqei/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Fakhrul-Alam-Siddiqei-Antor)
 
 <h4> Hi, I am a self-taught software creator and mobile development researchers who love to work and learn new things about mobile development. Every day, I learn something new and try to apply it to my work and projects. I believe that learning is the best thing a learner can do. It is always thrilling to solve new challenges and problems that I have never faced. </h4> 
 
