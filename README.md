@@ -42,6 +42,10 @@
 ### Check out new Android libraries/API's implementation,
 ### 
 ### 
+
+<a href="[https://github.com/FakhrulASA/RealmDB-Imp](https://github.com/FakhrulASA/Email-Validator-Compose-Clean)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=Email-Validator-Compose-Clean&theme=dark"/>
+</a>
 <a href="https://github.com/FakhrulASA/RealmDB-Imp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrulasa&repo=RealmDB-Imp&theme=dark"/>
 </a>
