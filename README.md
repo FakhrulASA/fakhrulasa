@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiqei/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakhrulASA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=about.me&logoColor=white)](https://fakhrulasa.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=about.me&logoColor=white)](https://fakhrulasa.odoo.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FakhrulASA/)
 
 
