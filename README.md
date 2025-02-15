@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hi there 👋, I'm Fakhrul Siddiqei</h1>
-  <h2>Lead Software Engineer | Jetpack Compose | Kotlin | Java | Django</h2>
+  <h2>Lead Software Engineer | Jetpack Compose | Spring | Kotlin | Java</h2>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiqei/)
