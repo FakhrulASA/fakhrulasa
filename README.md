@@ -1,16 +1,83 @@
+<h1 align="center">Hi there, I'm Fakhrul Alam Siddiqei 👋</h1>
+
 <p align="center">
-  <h1>Hi there 👋, I'm Fakhrul Siddiqei</h1>
-  <h2>Lead Software Engineer | Jetpack Compose | Spring | Kotlin | Java</h2>
+  <a href="https://www.linkedin.com/in/siddiqei/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/FakhrulASA">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://fakhrulasa.odoo.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/FakhrulASA/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiqei/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakhrulASA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=about.me&logoColor=white)](https://fakhrulasa.odoo.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FakhrulASA/)
+## About Me
 
+I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, and Flutter**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Currently, I work at **Grameenphone Ltd.**, where I develop robust applications used by millions of users.
+
+- 🔭 **Current Role:** Senior Software Engineer at Grameenphone Ltd.
+- 🌱 **Learning:** AI & Machine Learning integration for mobile applications.
+- 💬 **Ask me about:** Android, Kotlin, Jetpack Compose, Flutter, Spring Boot, Clean Architecture.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### **Languages**
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+
+#### **Frameworks**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+#### **Architecture & Design Patterns**
+- **Application Architecture:** Clean Architecture, MVVM, BLoC, MVP
+- **Design Patterns:** Builder, Singleton, Adapter, Facade, Chain of Responsibility, Observer
+- **Asynchronous Programming:** Coroutines, RxKotlin, Async/Await, Futures/Streams
+
+#### **Testing**
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Kluent](https://img.shields.io/badge/Kluent-FF6F00?style=flat)
+![Kotest](https://img.shields.io/badge/Kotest-0095D5?style=flat)
+
+
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Room](https://img.shields.io/badge/Room-007396?style=flat&logo=sqlite&logoColor=white)
+
+#### **Tools**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ## About Me
-I’m a self-taught software creator and mobile development researcher with a passion for building scalable, high-performance apps. Whether it's pioneering new features for Grameenphone’s MyGP project or refining architectures using TDD and Clean Architecture, I love tackling challenges head-on and continuously learning something new.
+
+I am a Senior Software Engineer with a strong background in mobile application development and a deep expertise in Android, particularly using Jetpack Compose and Clean Architecture. With experience leading development for high-traffic apps, I specialize in creating scalable, secure, and high-performing applications for millions of users. My work spans various industries, including telecom, finance, and event management, where I've implemented innovative features like AI-driven face detection, dynamic UIs, and robust modular architectures.
+
+A collaborative team leader and a dedicated developer, I bring a focus on Test-Driven Development (TDD) to ensure code reliability and maintainability. My recent work with Miaki on Grameenphone's MyGP app and UCB Fintech’s Upay app highlights my commitment to enhancing user experience, security, and app performance. In addition to technical expertise, I have a passion for mentoring, having taught Android development courses and led workshops on modern mobile tech.
+
+With a keen interest in solving complex problems and advancing mobile tech, I am continually driven to innovate and deliver impactful solutions in the mobile application landscape.
 
 
 ### 🧰 Technical Expertise and Tools:
@@ -44,6 +111,8 @@ I’m a self-taught software creator and mobile development researcher with a pa
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="margin:4px">
   <img src="https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=groovy&logoColor=white" alt="Groovy" height="40" style="margin:4px">
 </p>
+## Repository Language's
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrulasa&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contributed Projects
 
@@ -70,8 +139,6 @@ I’m a self-taught software creator and mobile development researcher with a pa
       <br/>
       <b>Ami Probashi</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://eventabd.com/" target="_blank">
         <img src="https://media.licdn.com/dms/image/v2/D560BAQFGne1U-rQARQ/company-logo_200_200/company-logo_200_200/0/1710054166134/eventa_private_limited_logo?e=2147483647&v=beta&t=Q_FAt4T4nvJn0H28RqNe9IhHbN90-obSmLsHzyYJ-MQ" alt="EventaBd" width="150" />
@@ -93,8 +160,6 @@ I’m a self-taught software creator and mobile development researcher with a pa
       <br/>
       <b>Workopolo</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.spcworld.busfinder&hl=en&gl=US" target="_blank">
         <img src="https://images.sftcdn.net/images/t_app-icon-m/p/7ccaac55-0c2a-45a0-924b-156a2bfd19c2/1552594359/spc-bus-finder-logo" alt="SPC Bus Finder" width="150" />
