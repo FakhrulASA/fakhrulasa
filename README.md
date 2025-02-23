@@ -45,13 +45,6 @@ I’m a self-taught software creator and mobile development researcher with a pa
   <img src="https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=groovy&logoColor=white" alt="Groovy" height="40" style="margin:4px">
 </p>
 
-
-## Here's my some stats,
-
-### 
-![Fakhruls's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhrulasa&show_icons=true&theme=gruvbox)
-
-
 ## Most used language's
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrulasa&exclude_repo=okkhor-Bangla-ANSI-converter,My-Portfolio-Website,BEUMAN-PRANOBANDHU,AutomaticMobileAuth,anagram,wd2DiceGame,CalculatorWD2,Workshopday1,RecycleviewTrainingClass391&theme=dracula)](https://github.com/fakhrulasa/github-readme-stats)
 ### Contributed Projects
