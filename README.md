@@ -23,7 +23,6 @@ I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, a
 - 🌱 **Learning:** AI & Machine Learning integration for mobile applications.
 - 💬 **Ask me about:** Android, Kotlin, Jetpack Compose, Flutter, Spring Boot, Clean Architecture.
 
----
 
 ### 🛠️ Technologies & Tools
 
