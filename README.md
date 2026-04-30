@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/siddiqei/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/FakhrulASA"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://fakhrulasa.odoo.com"><img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+  <a href="https://fakhrulasa.page.gd"><img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+   <a href="http://fakhrulasa.hashnode.dev"><img src="https://img.shields.io/badge/Blog%23E34F26.svg?style=for-the-badge&logo=Google-chrome&logoColor=green"/></a>
   <a href="https://leetcode.com/u/FakhrulASA/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
